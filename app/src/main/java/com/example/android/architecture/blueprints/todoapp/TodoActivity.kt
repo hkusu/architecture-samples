@@ -37,3 +37,5 @@ class TodoActivity : ComponentActivity() {
         }
     }
 }
+
+public fun hoge() {}
