@@ -12,7 +12,7 @@ jobs:
     permissions:
       # contents: write
       pull-requests: write
-      checks: write
+#      checks: write
       contents: read
     steps:
       - uses: actions/checkout@v4
